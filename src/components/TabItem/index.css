@@ -1,0 +1,22 @@
+.active {
+  background-color: #db1c48;
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #ffffff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 8px 25px;
+  border-radius: 5px;
+}
+.button {
+  background-color: transparent;
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #db1c48;
+  border: 1px solid #db1c48;
+  outline: none;
+  cursor: pointer;
+  padding: 8px 25px;
+  border-radius: 5px;
+}
